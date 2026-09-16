@@ -1,36 +1,40 @@
 # Hi there, I'm bit-wizard-esp 👋
 
-### 🚀 Python Dev | C++ Engineer | Hardware Hacker
+### 🚀 Embedded Dev | Security Tinkerer | Hardware Hacker
 
-I turn coffee into code, and code into electrical signals. I specialize in development for Linux/Windows, and I also build devices based on Arduino and ESP32/8266.
+I turn coffee into code, and code into electrical signals. I build firmware and tools for Linux/Windows, and hardware based on Arduino and ESP32/ESP8266 — with a particular pull toward RF, NFC, and everything that blinks or transmits.
 
 ---
 
-### 🛠️ My Arsenal:
+### 🛠️ Tech Stack
 
-**Languages & Technologies:**
+**Languages & Tools**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**Embedded & IoT:**
+**Embedded & IoT**
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ---
 
-### ⚡ What I Do:
-- 🐍 I develop backend and automation in **Python**.
-- ⚙️ I write high-performance code in **C++**.
-- 🔌 I design smart devices on **ESP** and **Arduino**.
-- 📡 I bridge software and hardware via UART, I2C, SPI, MQTT.
+### ⚡ What I Do
+
+- 🪪 Design RFID/iButton tools — reader/emulator/bruteforcer firmware for DS1990A-style keys, with OLED UI and multi-button navigation.
+- 🤖 Develop Telegram bots — moderation, AI integration, and marketplace price tracking with async Python (aiogram, APScheduler).
+- 📡 Bridge software and hardware via UART, I2C, SPI, and RF — and enjoy reverse-engineering protocols along the way.
 
 ---
 
-### 📊 My Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bit-wizard-esp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bit-wizard-esp&layout=compact&theme=radical)
+### 🔭 Currently Building
 
----
+- **ESPie** — ESP8266-based iButton reader/emulator/bruteforcer
+- **plotter-studio** — Python tool that turns a regular printer into a pen plotter
+
 
